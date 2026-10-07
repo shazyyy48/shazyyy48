@@ -16,7 +16,7 @@
 > I enjoy digging through traces, connecting the dots, and turning raw data into clear answers.
 
 <a href="https://github.com/shazyyy48"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://example.com"><img src="https://img.shields.io/badge/Portfolio-00F72B?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://shazyyy48.github.io/info/"><img src="https://img.shields.io/badge/Portfolio-00F72B?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 
 ---
 
